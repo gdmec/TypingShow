@@ -11,5 +11,5 @@ Page({
 
   onCustomerServiceButtonClick(e) {
     console.log(e)
-  },
+  }
 })
